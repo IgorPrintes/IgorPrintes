@@ -24,11 +24,13 @@
 <br>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/?username=IgorPrintes&show_icons=true&count_private=true&theme=ayu-mirage&font=Iosevka" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPrintes&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage" alt="Top Languages"/>
-  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorPrintes&theme=ayu_mirage" alt="Profile Summary"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=IgorPrintes&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPrintes&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorPrintes&theme=ayu_mirage"/>
 </div>
-
+<br>
 <div align="center" style="margin-top: 16px;">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/>
