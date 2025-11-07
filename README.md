@@ -1,5 +1,5 @@
 <br>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=igorprintes&label=Profile%20views&color=0e75b6&style=flat" alt="igorprintes" /> </p>
 <div align="center">
   <img height="150" src="https://imgur.com/aqxVUNa.png" alt="Boto Tucuxi"/>
 </div>
@@ -47,6 +47,7 @@
 
 <br>
 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.facebook.com/igprintes" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" height="28"/>
@@ -58,12 +59,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>
 </p>
-
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=IgorPrintes" alt="Visitor Badge"/>
-</div>
 
 <br><br><br>
 
